@@ -16,4 +16,3 @@ $params = @{
 }
         
 Invoke-RestMethod @params
-
